@@ -2,7 +2,7 @@
 
 **Last updated:** September 25, 2026
 
-This privacy policy applies to the memo (Memo Chess) iOS app ("the app"), published by [YOUR NAME / COMPANY NAME].
+This privacy policy applies to the memo (Memo Chess) iOS app ("the app"), published by Dan Bolocan.
 
 ## Summary
 
@@ -42,6 +42,5 @@ If this policy ever changes — for example, if a future version of the app adds
 
 ## Contact
 
-If you have questions about this privacy policy, contact us at: **[YOUR CONTACT EMAIL]**
+If you have questions about this privacy policy, contact us at: **bolocan.daan@gmail.com**
 
-Before pasting, replace [YOUR NAME / COMPANY NAME] and [YOUR CONTACT EMAIL] with your actual name/business and the email you want listed publicly for privacy questions (this becomes public on the internet — happy to use whatever address you'd like there).
